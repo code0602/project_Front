@@ -48,6 +48,7 @@ export const loadingBox = css`
 /////////////////////////<<LeftSideBar>>/////////////////////////////////
 
 export const sideBarLayout = css`
+    position: relative; 
     display: flex;
     height: 100%;
     width: 100%;
